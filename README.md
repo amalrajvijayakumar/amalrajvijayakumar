@@ -15,8 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://visitcount.itsvg.in/api?id=amalrajvijayakumar&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+========
 
 <a href="https://visitcount.itsvg.in">
 <img src="https://visitcount.itsvg.in/api?id=amalrajvijayakumar&label=Profile%20Views&color=1&icon=5&pretty=false" />
